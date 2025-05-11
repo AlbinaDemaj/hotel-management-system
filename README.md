@@ -3,6 +3,10 @@
 A complete **hotel booking and management platform** developed using **PHP & MySQL**.  
 This project offers a seamless experience for guests to **browse, reserve, and manage rooms**, while administrators can **control operations through a powerful dashboard**.
 
+
+[🔗 **Live Preview**](https://relaxhotel.infinityfreeapp.com)  
+
+
 ---
 
 ## 🔑 Demo Login Credentials
